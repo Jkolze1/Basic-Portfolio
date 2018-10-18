@@ -1,3 +1,4 @@
 # Basic-portfolio
-
-<li> https://jkolze1.github.io/Basic-portfolio-master/index </li>
+Basic portfolio web site. Made with HTML/CSS.
+<br>
+https://jkolze1.github.io/Basic-portfolio-master/index 
